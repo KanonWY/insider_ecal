@@ -1,6 +1,6 @@
 ## insider_ecal
 该仓库用于记录[Ecal](https://github.com/eclipse-ecal/ecal/)的学习笔记。  
-0. [克隆编译]()  
+ 
 1. [简单启动分析]()  
 2. [注册接收服务](https://github.com/KanonWY/insider_ecal/blob/main/doc/%E6%B3%A8%E5%86%8C%E6%8E%A5%E6%94%B6%E6%9C%8D%E5%8A%A1.md)  
 3. [注册提供服务](https://github.com/KanonWY/insider_ecal/blob/main/doc/%E6%B3%A8%E5%86%8C%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1.md)  
