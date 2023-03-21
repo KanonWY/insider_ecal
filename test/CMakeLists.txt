@@ -36,3 +36,8 @@ target_link_libraries(testVector pthread)
 
 add_executable(testtrace testtrace.cpp)
 target_link_libraries(testtrace unwind)
+
+
+add_executable(udp_send UDP_send.cpp)
+
+add_executable(udp_receive UDP_receive.cpp)
