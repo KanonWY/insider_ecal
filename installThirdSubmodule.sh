@@ -1,5 +1,8 @@
 #! /bin/bash
 
+
+
+
 url1=https://github.com/protocolbuffers/protobuf.git
 url2=https://github.com/chriskohlhoff/asio.git
 url3=https://github.com/xguerin/tclap.git
@@ -21,4 +24,23 @@ url18=https://github.com/ArthurSonzogni/FTXUI.git
 url19=https://github.com/eclipse-ecal/udpcap.git
 
 
-echo${url1}
+`git clone ${url1}`
+`git clone ${url2}`
+`git clone ${url3}`
+`git clone ${url4}`
+`git clone ${url5}`
+`git clone ${url6}`
+`git clone ${url7}`
+`git clone ${url8}`
+`git clone ${url9}`
+`git clone ${url10}`
+`git clone ${url11}`
+`git clone ${url12}`
+`git clone ${url13}`
+`git clone ${url14}`
+`git clone ${url15}`
+`git clone ${url16}`
+`git clone ${url17}`
+`git clone ${url18}`
+`git clone ${url19}`
+
